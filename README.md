@@ -98,3 +98,7 @@ jupyter notebook
 - Análise dos fatores mais importantes que influenciam os custos médicos
 
 ---
+
+## Relatório de Insight
+
+Você pode visualizar o relatório de insight neste [Link](report/insight.md).
