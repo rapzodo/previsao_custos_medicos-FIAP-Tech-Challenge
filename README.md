@@ -6,7 +6,7 @@ Este Notebook Jupyter contém um projeto de análise de dados que desenvolve um 
 ## O que o Código Faz
 Este notebook realiza as seguintes operações:
 1. Carregamento e pré-processamento de dados
-    - Importa dados de pacientes com seus respectivos custos médicos
+    - Importa dados de pacientes com seus respectivos custos médicos (https://www.kaggle.com/datasets/shivadumnawar/health-insurance-dataset?resource=download)
     - Limpa valores ausentes e trata outliers
     - Codifica variáveis categóricas (como região e status de fumante)
     - Normaliza variáveis numéricas (como idade e IMC)
@@ -98,3 +98,7 @@ jupyter notebook
 - Análise dos fatores mais importantes que influenciam os custos médicos
 
 ---
+
+## Relatório de Insight
+
+Você pode visualizar o relatório de insight neste [Link](report/insight.md).
